@@ -1,0 +1,6 @@
+master head
+hello world!
+
+update text. END.
+
+Show GIT PUSH command.
